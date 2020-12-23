@@ -11,7 +11,7 @@ type contact struct {
 	personName   string
 	personNumber string
 }
-
+// Bir şeyler
 func imple(k conctactInterface) {
 	k.save()
 }
