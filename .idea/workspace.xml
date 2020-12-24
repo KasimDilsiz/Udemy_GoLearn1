@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e975c253-47c9-481f-b8a2-ee3d7169ed35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/002HandsOnExercises/001.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002HandsOnExercises/002.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002HandsOnExercises/003.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002HandsOnExercises/004.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002HandsOnExercises/005.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/errors.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goroutine.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002HandsOnExercises/005.go" beforeDir="false" afterPath="$PROJECT_DIR$/002HandsOnExercises/005.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +61,9 @@
     <MESSAGE value="Ek bir açıklama girildi." />
     <MESSAGE value="deneme yapıldı" />
     <MESSAGE value="deneme dosyası sılındı" />
-    <option name="LAST_COMMIT_MESSAGE" value="deneme dosyası sılındı" />
+    <MESSAGE value="variables,values&amp;type and examples" />
+    <MESSAGE value="variables,values&amp;type and example" />
+    <option name="LAST_COMMIT_MESSAGE" value="variables,values&amp;type and example" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

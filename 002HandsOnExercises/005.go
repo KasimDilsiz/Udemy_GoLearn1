@@ -6,7 +6,7 @@ type hotDog int
 
 var o hotDog
 var p int
-
+//ıujklş
 func main() {
 
 	fmt.Println(o)
