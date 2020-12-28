@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e975c253-47c9-481f-b8a2-ee3d7169ed35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/002HandsOnExercises/005.go" beforeDir="false" afterPath="$PROJECT_DIR$/002HandsOnExercises/005.go" afterDir="false" />
+    <list default="true" id="e975c253-47c9-481f-b8a2-ee3d7169ed35" name="Default Changelist" comment="variables,values&amp;type and example">
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/001.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/002.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/003.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/004.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/005.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/006.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/007.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/008.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/009.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/010.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/011.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +34,8 @@
   <component name="GoVcsConfiguration">
     <option name="GO_FMT" value="false" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../Go/src/fmt/print.go" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1m3brXvWzwUWAocEJSkvK6WEVQ9" />
   <component name="ProjectViewState">
@@ -40,15 +51,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../awesomeProject1" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1\003ProgramingFundamentals" />
+      <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1\003ProgramingFundamentals\Other" />
+      <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1\003ProgramingFundamentals\boolean" />
       <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1\Variables,values&amp;type" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/KasimDilsiz/Udemy_GoLearn1/001Variables,values&amp;type" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_GoLearn1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/001Variables,values&amp;type/007.go" />
+      <package value="github.com/KasimDilsiz/Udemy_GoLearn1/001Variables,values&amp;type" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/KasimDilsiz/Udemy_GoLearn1/001Variables,values&amp;type" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
