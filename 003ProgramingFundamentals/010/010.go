@@ -7,10 +7,16 @@ const (
 	C1 = iota
 	C2 = iota
 )
+const (
+	C4 = iota
+	C5 = iota
+	C6 = iota
+)
 
 func main() {
 
 	fmt.Println(C0, C1, C2) // "0 1 2"
+	fmt.Println(C4, C5, C6) // "0 1 2" burada belırtmek ıstedıgımız bunu tekrar yazdıgımıda sıfırlanır
 }
 
 /*
