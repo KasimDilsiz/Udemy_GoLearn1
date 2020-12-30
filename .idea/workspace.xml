@@ -2,39 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e975c253-47c9-481f-b8a2-ee3d7169ed35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/012/012.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/013/013.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003ProgramingFundamentals/014/014.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004HandOnExercises/001/001.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004HandOnExercises/002/002.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004HandOnExercises/003/003.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004HandOnExercises/004/004.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004HandOnExercises/005/005.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004HandOnExercises/006/006.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/001/001.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/002/002.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/003/003.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/004/004.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/005/005.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/006/006.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/007/007.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/008/008.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/009/009.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/010/010.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/011/011.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005ControlFlow/012/012.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006HandsOnExercises/001/001.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006HandsOnExercises/002/002.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006HandsOnExercises/003/003.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006HandsOnExercises/004/004.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006HandsOnExercises/005/005.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006HandsOnExercises/006/006.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006HandsOnExercises/007/007.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006HandsOnExercises/008/008.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006HandsOnExercises/009/009.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Variables,values&amp;type/001.go" beforeDir="false" afterPath="$PROJECT_DIR$/001Variables,values&amp;type/001/001.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Variables,values&amp;type/002.go" beforeDir="false" afterPath="$PROJECT_DIR$/001Variables,values&amp;type/002/002.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Variables,values&amp;type/003.go" beforeDir="false" afterPath="$PROJECT_DIR$/001Variables,values&amp;type/003/003.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Variables,values&amp;type/004.go" beforeDir="false" afterPath="$PROJECT_DIR$/001Variables,values&amp;type/004/004.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Variables,values&amp;type/005.go" beforeDir="false" afterPath="$PROJECT_DIR$/001Variables,values&amp;type/005/005.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Variables,values&amp;type/006.go" beforeDir="false" afterPath="$PROJECT_DIR$/001Variables,values&amp;type/006/006.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Variables,values&amp;type/007.go" beforeDir="false" afterPath="$PROJECT_DIR$/001Variables,values&amp;type/007/007.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002HandsOnExercises/001.go" beforeDir="false" afterPath="$PROJECT_DIR$/002HandsOnExercises/001/001.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002HandsOnExercises/002.go" beforeDir="false" afterPath="$PROJECT_DIR$/002HandsOnExercises/002/002.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002HandsOnExercises/003.go" beforeDir="false" afterPath="$PROJECT_DIR$/002HandsOnExercises/003/003.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002HandsOnExercises/004.go" beforeDir="false" afterPath="$PROJECT_DIR$/002HandsOnExercises/004/004.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002HandsOnExercises/005.go" beforeDir="false" afterPath="$PROJECT_DIR$/002HandsOnExercises/005/005.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/001.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/001/001.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/002.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/002/002.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/003.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/003/003.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/004.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/004/004.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/005.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/005/005.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/006.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/006/006.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/007.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/007/007.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/008.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/008/008.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/009.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/009/009.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/010.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/010/010.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003ProgramingFundamentals/011.go" beforeDir="false" afterPath="$PROJECT_DIR$/003ProgramingFundamentals/011/011.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +46,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../../../../Go/src/fmt/print.go" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1m3brXvWzwUWAocEJSkvK6WEVQ9" />
   <component name="ProjectViewState">
@@ -82,14 +74,14 @@
       <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1\005ControlFlow" />
       <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1\004HandOnExercises\004" />
       <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1\004HandOnExercises\002" />
       <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1\004HandOnExercises\001" />
       <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1\001Variables,values&amp;type\007" />
-      <recent name="C:\gocode\src\github.com\KasimDilsiz\Udemy_GoLearn1\001Variables,values&amp;type\006" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build github.com/KasimDilsiz/Udemy_GoLearn1/005ControlFlow">
     <configuration name="go build github.com/KasimDilsiz/Udemy_GoLearn1/001Variables,values&amp;type" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Udemy_GoLearn1" />
       <working_directory value="$PROJECT_DIR$" />
@@ -99,8 +91,18 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build github.com/KasimDilsiz/Udemy_GoLearn1/005ControlFlow" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_GoLearn1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/005ControlFlow/001.go" />
+      <package value="github.com/KasimDilsiz/Udemy_GoLearn1/005ControlFlow" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/KasimDilsiz/Udemy_GoLearn1/005ControlFlow" />
         <item itemvalue="Go Build.go build github.com/KasimDilsiz/Udemy_GoLearn1/001Variables,values&amp;type" />
       </list>
     </recent_temporary>
@@ -119,7 +121,8 @@
     <MESSAGE value="variables,values&amp;type and examples" />
     <MESSAGE value="variables,values&amp;type and example" />
     <MESSAGE value="Programing fundamentals added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programing fundamentals added" />
+    <MESSAGE value="hand exercises were done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hand exercises were done" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
