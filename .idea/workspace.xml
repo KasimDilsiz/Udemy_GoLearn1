@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e975c253-47c9-481f-b8a2-ee3d7169ed35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/007GroupingData/001/001.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007GroupingData/002/002.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007GroupingData/003/003.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007GroupingData/004/004.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007GroupingData/005/005.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007GroupingData/006/006.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007GroupingData/007/007.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007GroupingData/008/008.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007GroupingData/009/009.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007GroupingData/010/010.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007GroupingData/011/011.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007GroupingData/012/012.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007GroupingData/008/008.go" beforeDir="false" afterPath="$PROJECT_DIR$/007GroupingData/008/008.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +30,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../../../../Go/src/fmt/print.go" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1m3brXvWzwUWAocEJSkvK6WEVQ9" />
   <component name="ProjectViewState">
@@ -110,7 +104,8 @@
     <MESSAGE value="Programing fundamentals added" />
     <MESSAGE value="hand exercises were done" />
     <MESSAGE value="control flows and hand on exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="control flows and hand on exercises" />
+    <MESSAGE value="Grouping Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grouping Data" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
